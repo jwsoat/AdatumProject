@@ -8,4 +8,4 @@ as well as recover and still run in case of a failure
 
 ## PROJECT V0.0.0.6 HOSTED AT live.dev.lasersportsnz.com/Private_Temp user and password same as PCs
 
-## PROJECT V0.0.0.5 HOSTED AT adatumpro.000webhostapp.com
+## PROJECT V0.0.0.5 HOSTED AT adatum.website
