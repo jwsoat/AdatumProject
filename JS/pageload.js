@@ -9,3 +9,8 @@ $(document).ready(function(){
         $("#page-content").load("Pages/Servers.html");
     });
 });
+$(document).ready(function(){
+    $("#servers").click(function(){
+        $("#page-content").load("Pages/backup.html");
+    });
+});
