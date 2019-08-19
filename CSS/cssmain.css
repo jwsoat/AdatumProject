@@ -34,10 +34,10 @@ h3{
 }
 .server-content-left{
   width: 300px;
-  float:left; /* add this */
+  float:left;
   border: 1px solid red;
 }
 .server-content-right{
   border: 1px solid green;
-  overflow: hidden; 
+  overflow: hidden;
 }
