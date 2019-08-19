@@ -10,7 +10,8 @@ $(document).ready(function(){
     });
 });
 $(document).ready(function(){
-    $("#backup").click(function(){
-        $("#page-content").load("Pages/Backup.html");
+    $("#servers").click(function(){
+        $("#page-content").load("Pages/backup.html");
     });
 });
+
