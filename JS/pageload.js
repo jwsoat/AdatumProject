@@ -19,3 +19,8 @@ $(document).ready(function(){
         $("#page-content").load("Pages/costs.html");
     });
 });
+$(document).ready(function(){
+    $("#computers").click(function(){
+        $("#page-content").load("Pages/computers.html");
+    });
+});
