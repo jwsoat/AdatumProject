@@ -20,7 +20,7 @@ h3{
   color:white;
 }
 /* Home */
-.home-content{
+.home-container{
   padding: 10px;
 }
 /* Server Page */
@@ -37,4 +37,8 @@ h3{
 }
 .server-content-right{
   overflow: hidden;
+}
+/* Backup Page */
+.backup-container{
+  padding: 10px;
 }
