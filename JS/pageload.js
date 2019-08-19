@@ -6,6 +6,6 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
     $("#servers").click(function(){
-        $("#page-content").load("Pages/servers.html");
+        $("#page-content").load("Pages/Servers.html");
     });
 });
