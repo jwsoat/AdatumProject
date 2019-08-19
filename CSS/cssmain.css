@@ -1,0 +1,19 @@
+body{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b4/Abstract-Artwork-_1237.jpg") ;
+  background-color: black;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+}
+p{
+  color:white;
+}
+h1{
+  color:white;
+}
+h2{
+  color:white;
+}
+h3{
+  color:white;
+}
