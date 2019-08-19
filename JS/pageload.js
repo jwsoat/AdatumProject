@@ -24,3 +24,8 @@ $(document).ready(function(){
         $("#page-content").load("Pages/computers.html");
     });
 });
+$(document).ready(function(){
+    $("#report").click(function(){
+        $("#page-content").load("Pages/report.html");
+    });
+});
