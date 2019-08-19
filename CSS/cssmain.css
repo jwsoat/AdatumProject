@@ -29,10 +29,15 @@ h3{
 }
 .server-content-container{
   width:100%;
+  border: 1px solid black;
+  overflow: hidden;
 }
 .server-content-left{
-
+  width: 300px;
+  float:left; /* add this */
+  border: 1px solid red;
 }
 .server-content-right{
-
+  border: 1px solid green;
+  overflow: hidden; 
 }
