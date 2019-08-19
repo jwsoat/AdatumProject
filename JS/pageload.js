@@ -10,7 +10,9 @@ $(document).ready(function(){
     });
 });
 $(document).ready(function(){
+<<<<<<< HEAD
     $("#servers").click(function(){
         $("#page-content").load("Pages/backup.html");
     });
 });
+0c9
