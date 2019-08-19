@@ -1,3 +1,4 @@
+/* Global */
 body{
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b4/Abstract-Artwork-_1237.jpg") ;
   background-color: black;
@@ -18,6 +19,11 @@ h2{
 h3{
   color:white;
 }
+/* Home */
+.home-content{
+  padding: 10px;
+}
+/* Server Page */
 .servers-container{
   padding: 10px;
 }
