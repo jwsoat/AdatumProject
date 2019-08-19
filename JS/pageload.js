@@ -14,3 +14,8 @@ $(document).ready(function(){
         $("#page-content").load("Pages/backup.html");
     });
 });
+$(document).ready(function(){
+    $("#costs").click(function(){
+        $("#page-content").load("Pages/costs.html");
+    });
+});
