@@ -16,33 +16,53 @@
       </tr>
       <tr>
         <th>2</th>
-        <td>Windows Server 2016 Standard</td>
+        <td><a href="https://www.softwaregiants.com/en_nz/windows-server-2016-standard.html">Windows Server 2016 Standard</a></td>
         <td>$1599.98</td>
       </tr>
       <tr>
         <th>2</th>
-        <td>HPE ProLiant DL360 Gen10</td>
+        <td><a href="https://buy.hpe.com/pdp?prodNum=867962-B21&country=nz&locale=en&catId=15351&catlevelmulti=15351_3328412_241475_1010007891">HPE ProLiant DL360 Gen10</a></td>
         <td>$11019.64</td>
       </tr>
       <tr>
         <th>1</th>
-        <td>Ubuntu Server 18.04 LTS</td>
+        <td><a href="https://ubuntu.com/download/server">Ubuntu Server 18.04 LTS</a></td>
         <td>$0</td>
       </tr>
       <tr>
         <th>10</th>
-        <td>Windows 10 Pro</td>
+        <td><a href="https://www.pbtech.co.nz/product/OSYMST3706/Microsoft-Windows-Professional-10-32-bit64-bit-Eng">Windows 10 Pro</a></td>
         <td>$3208.50</td>
       </tr>
       <tr>
         <th>16</th>
-        <td>HPE 900GB Enterprise HDD</td>
+        <td><a href="https://buy.hpe.com/pdp?prodNum=870759-B21&country=nz&locale=en&catId=329290&catlevelmulti=329290_329233_7101711_1009689640">HPE 900GB Enterprise HDD</a></td>
         <td>$23374.44</td>
       </tr>
       <tr>
         <th>10</th>
-        <td>Custom Built PCs</td>
+        <td><a href="https://nz.pcpartpicker.com/list/KRLFw6">Custom Built PCs</a></td>
         <td>$9798.40</td>
+      </tr>
+      <tr>
+        <th>2</th>
+        <td><a href="https://www.pbtech.co.nz/product/UPSPWR0006/Eaton-9PX-3000VA-2U-RackTower-16Amp-Input-230V-Rai">Eaton 9PX 3000VA 2U Rack/Tower, 16Amp Input, 230V</a></td>
+        <td>$8625</td>
+      </tr>
+      <tr>
+        <th>1</th>
+        <td><a href="https://www.netgate.com/solutions/pfsense/xg-1541.html">XG-1541 1U pfSense® Security Gateway Appliance</a></td>
+        <td>$4712.50</td>
+      </tr>
+      <tr>
+        <th>1</th>
+        <td><a href="https://gowifi.co.nz/videosurveillance/uck-g2-plus.html">Ubiquiti UniFi Controller Cloud Key G2 with 1TB HDD</a></td>
+        <td>$431.25</td>
+      </tr>
+      <tr>
+        <th>1</th>
+        <td><a href="https://www.gowifi.co.nz/nonpoe/es-16-xg.html">EdgeSwitch 16 XG</a></td>
+        <td>$1144.25</td>
       </tr>
     </tbody>
   </table>
