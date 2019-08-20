@@ -1,9 +1,5 @@
 <div class="costs-container">
-<?php
-include "navbar.html";
-?>
 <h1>Costs</h1>
-
   <table class="table table-sm table-dark">
     <thead>
       <tr>
@@ -51,6 +47,3 @@ include "navbar.html";
     </tbody>
   </table>
 </div>
-<?php
-include "footer.html";
-?>
