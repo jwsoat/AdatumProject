@@ -1,3 +1,3 @@
 <?php
-require ('Backend/Build/indexbuild.php');
+require "Backend/Build/indexbuild.php";
 ?>
