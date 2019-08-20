@@ -1,7 +1,4 @@
 <div class="computers-container">
-<?php
-include "navbar.html";
-?>
     <h1>Computers</h1>
     <table class="table table-sm table-dark">
       <thead>
@@ -79,6 +76,3 @@ include "navbar.html";
         </tr>
       </table>
 </div>
-<?php
-include "footer.html";
-?>
