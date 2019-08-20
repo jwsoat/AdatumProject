@@ -9,5 +9,9 @@ require ('Modules/Navbar.php');
     <a href="/assets/docs/brief.pdf">Our Brief</a>
   </div>
 </div>
+<?php
+require ('Modules/Footer.php');
+require ('Modules/JS.php');
+?>
 </body>
 </html>
