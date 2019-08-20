@@ -1,31 +1,31 @@
 //load page content
 $(document).ready(function(){
     $("#home").click(function(){
-        $("#page-content").load("Pages/home.html");
+        $("#page-content").load("Pages/home.php");
     });
 });
 $(document).ready(function(){
     $("#servers").click(function(){
-        $("#page-content").load("Pages/Servers.html");
+        $("#page-content").load("Pages/Servers.php");
     });
 });
 $(document).ready(function(){
     $("#backup").click(function(){
-        $("#page-content").load("Pages/backup.html");
+        $("#page-content").load("Pages/backup.php");
     });
 });
 $(document).ready(function(){
     $("#costs").click(function(){
-        $("#page-content").load("Pages/costs.html");
+        $("#page-content").load("Pages/costs.php");
     });
 });
 $(document).ready(function(){
     $("#computers").click(function(){
-        $("#page-content").load("Pages/computers.html");
+        $("#page-content").load("Pages/computers.php");
     });
 });
 $(document).ready(function(){
     $("#report").click(function(){
-        $("#page-content").load("Pages/report.html");
+        $("#page-content").load("Pages/report.php");
     });
 });
