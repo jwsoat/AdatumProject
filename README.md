@@ -6,7 +6,7 @@ The company is wanting to upgrade to a server 2016 environment as the company is
 it needs to be able to expand easily for new clients and can keep the whole infrastructure updated,
 as well as recover and still run in case of a failure
 
-## PROJECT V0.0.0.8 HOSTED AT live.dev.lasersportsnz.com/Private_Temp user and password same as PCs
+## PROJECT V0.0.0.9 HOSTED AT live.dev.lasersportsnz.com/Private_Temp user and password same as PCs
 
-## PROJECT V0.0.0.8 HOSTED AT adatum.website
+## PROJECT V0.0.0.9 HOSTED AT adatum.website
 
