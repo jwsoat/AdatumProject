@@ -1,16 +1,21 @@
 <div class="costs-container">
+<?php
+include "navbar.html";
+?>
+<h1>Costs</h1>
+
   <table class="table table-sm table-dark">
     <thead>
       <tr>
         <th scope="col">Quantity</th>
         <th scope="col">Product</th>
-        <th scope="col">Cost</th>
+        <th scope="col">Cost NZD</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <th>1</th>
-        <td>45 Drives Storinator Q30 Enhanced</td>
+        <td><a href="/Assets/Docs/quote.pdf">45 Drives Storinator Q30 Enhanced</a></td>
         <td>$18671.81</td>
       </tr>
       <tr>
@@ -46,3 +51,6 @@
     </tbody>
   </table>
 </div>
+<?php
+include "footer.html";
+?>
