@@ -71,6 +71,12 @@ h3{
 .report-container{
   padding: 10px;
 }
+.report-iframe{
+  position: absolute;
+  height: 80%;
+  width: 100%;
+  border: none
+}
 /* Costs Page */
 .costs-container{
   padding:10px;
