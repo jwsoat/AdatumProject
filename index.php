@@ -1,7 +1,3 @@
-<html>
-<body>
 <?php
-require ('Backend/indexbuild.php');
+require ('Backend/Build/indexbuild.php');
 ?>
-</body>
-</html>
