@@ -1,6 +1,6 @@
 <div class="costs-container">
 <?php
-include "navbar.html";
+include "\Backend\Build\Modules\navbar.php";
 ?>
 <h1>Costs</h1>
 

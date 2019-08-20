@@ -1,6 +1,6 @@
 <div class="computers-container">
 <?php
-include "navbar.html";
+include "\Backend\Build\Modules\navbar.php";
 ?>
     <h1>Computers</h1>
     <table class="table table-sm table-dark">
