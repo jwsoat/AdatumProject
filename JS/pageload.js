@@ -1,31 +1,31 @@
 //load page content
 $(document).ready(function(){
     $("#home").click(function(){
-        $("#page-content").load("Pages/home.php");
+        $("#page-content").load("Backend/Build/Pages/home.php");
     });
 });
 $(document).ready(function(){
     $("#servers").click(function(){
-        $("#page-content").load("Pages/Servers.php");
+        $("#page-content").load("Backend/Build/Pages/Servers.php");
     });
 });
 $(document).ready(function(){
     $("#backup").click(function(){
-        $("#page-content").load("Pages/backup.php");
+        $("#page-content").load("Backend/Build/Pages/backup.php");
     });
 });
 $(document).ready(function(){
     $("#costs").click(function(){
-        $("#page-content").load("Pages/costs.php");
+        $("#page-content").load("Backend/Build/Pages/costs.php");
     });
 });
 $(document).ready(function(){
     $("#computers").click(function(){
-        $("#page-content").load("Pages/computers.php");
+        $("#page-content").load("Backend/Build/Pages/computers.php");
     });
 });
 $(document).ready(function(){
     $("#report").click(function(){
-        $("#page-content").load("Pages/report.php");
+        $("#page-content").load("Backend/Build/Pages/report.php");
     });
 });
