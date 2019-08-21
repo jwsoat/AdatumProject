@@ -64,6 +64,31 @@
         <td><a href="https://www.gowifi.co.nz/nonpoe/es-16-xg.html">EdgeSwitch 16 XG</a></td>
         <td>$1144.25</td>
       </tr>
+      <tr>
+        <th>1</th>
+        <td><a href="https://gowifi.co.nz/switches/es-48-lite.html">EdgeSwitch 48 Lite</a></td>
+        <td>$861.35</td>
+      </tr>
+      <tr>
+        <th>1</th>
+        <td><a href="https://gowifi.co.nz/switches/es-48-500w.html">EdgeSwitch 48 (500W PoE | 24V Passive | 802.3af/at)</a></td>
+        <td>$1696.25</td>
+      </tr>
+      <tr>
+        <th>5</th>
+        <td><a href="https://gowifi.co.nz/ipnetworkvideocameras/uvc-g4-pro.html">UniFi Video IP Camera G4 Pro</a><td>
+        <td>$4457.00</td>
+      </tr>
+      <tr>
+        <th>1</th>
+        <td><a href="https://gowifi.co.nz/wireless/uap-nanohd-3.html">Ubiquiti 4x4 MU-MIMO Wave 2 802.11ac Access Point 3 Pack</a></td>
+        <td>$891.40</td>
+      </tr>
+      <tr>
+        <th>1</th>
+        <td><a href="https://www.spark.co.nz/business/shop/internet/plans-and-pricing/">Spark Business Fibre Max</a></td>
+        <td>$172.33</td>
+      </tr>
     </tbody>
   </table>
 </div>
