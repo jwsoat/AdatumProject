@@ -13,7 +13,7 @@ if(password_verify($pass, $hash)){
 }
 else {
 	echo "Wrong Password!";
-	header('Location: /login.php');
+	header('Location: login.php');
 }
 }
 }
