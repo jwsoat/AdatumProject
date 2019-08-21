@@ -148,7 +148,7 @@ h3{
 .report-iframe{
   position: absolute;
   height: 90%;
-  width: auto;
+  width: 99%;
   border: none
 }
 /* Costs Page */
