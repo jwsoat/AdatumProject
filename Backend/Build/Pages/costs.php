@@ -76,7 +76,7 @@
       </tr>
       <tr>
         <th>5</th>
-        <td><a href="https://gowifi.co.nz/ipnetworkvideocameras/uvc-g4-pro.html">UniFi Video IP Camera G4 Pro</a><td>
+        <td><a href="https://gowifi.co.nz/ipnetworkvideocameras/uvc-g4-pro.html">UniFi Video IP Camera G4 Pro</a></td>
         <td>$4457.00</td>
       </tr>
       <tr>
