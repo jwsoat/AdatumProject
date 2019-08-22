@@ -1,5 +1,5 @@
 <?php
-   require "sql.php"
+   require "Backend/Config/sql.php"
    session_start();
    $user_check = $_SESSION['user'];
    $ses_sql = mysqli_query($conn, "SELECT * FROM members WHERE username ='$user_check'");
