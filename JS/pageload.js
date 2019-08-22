@@ -34,3 +34,8 @@ $(document).ready(function(){
         $("#page-content").load("Backend/Build/Pages/report.php");
     });
 });
+$(document).ready(function(){
+    $("#contact").click(function(){
+        $("#page-content").load("Backend/Build/Pages/contact.php");
+    });
+});
