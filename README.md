@@ -8,6 +8,6 @@ as well as recover and still run in case of a failure
 
 ## PROJECT V0.0.0.16.5 HOSTED AT live.dev.lasersportsnz.com/Private_Temp user and password same as PCs
 
-## PROJECT V0.0.0.17 HOSTED AT adatum.website
+## PROJECT V0.0.0.24 HOSTED AT adatum.website
 
 ### 22/08/19 Everything was broken on this day...we fixed it 
