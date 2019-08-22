@@ -142,13 +142,15 @@ h3{
 }
 /* Report Page */
 .report-container{
+  margin: auto;
+  width: 960px;
   padding: 10px;
 }
 .report-iframe{
   position: absolute;
   height: 90%;
-  width: 99%;
-  border: none
+  width: 960px;
+  border: none;
 }
 /* Costs Page */
 .costs-container{
