@@ -4,6 +4,7 @@
 <p>Here are my Social Medias
     <a href="https://twitter.com/jwsoat">Jwsoat twitter</a>
     <a href="https://twitter.com/djtrogy">Trogy twitter</a>
-    <a href="https://m.me/jwsoat">Facebook Messenger</a>
+    <a href="https://m.me/jwsoat">Jwsoat Facebook Messenger</a>
+    <a href="https://m.me/djtrogy">Trogy Facebook Messenger</a>
 </p>
 </div>
