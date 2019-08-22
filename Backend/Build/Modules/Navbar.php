@@ -23,6 +23,9 @@
       <li class="nav-item active">
         <a id="report" class="nav-link" href="#">Report</a>
       </li>
+      <li class="nav-item active">
+        <a id="contact" class="nav-link" href="#">Contact</a>
+      </li>
   </ul>
 </div>
 </nav>
