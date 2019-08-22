@@ -1,3 +1,4 @@
+<?php require 'session.php'?>
 <html>
 <?php
 require "Modules/Head.php";

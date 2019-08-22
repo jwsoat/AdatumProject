@@ -1,3 +1,4 @@
+<?php require 'Backend/Login/session.php'?>
 <head>
   <title>A. Datum Project</title>
     <meta charset="UTF-8">
