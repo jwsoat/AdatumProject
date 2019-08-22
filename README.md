@@ -10,4 +10,6 @@ as well as recover and still run in case of a failure
 
 ## PROJECT V0.0.0.24 HOSTED AT adatum.website
 
+## For any issues contact admin@adatum.website
+
 ### 22/08/19 Everything was broken on this day...we fixed it 
