@@ -5,6 +5,11 @@ $(document).ready(function(){
     });
 });
 $(document).ready(function(){
+    $("#home2").click(function(){
+        $("#page-content").load("Backend/Build/Pages/home.php");
+    });
+});
+$(document).ready(function(){
     $("#servers").click(function(){
         $("#page-content").load("Backend/Build/Pages/Servers.php");
     });

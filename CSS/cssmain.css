@@ -125,16 +125,9 @@ h3{
 .backup-container{
   padding: 10px;
 }
-.backup-content-container{
-  width: 100%;
-  overflow: hidden;
-}
-.backup-content-left{
-  width: 50%;
-  float:left;
-}
-.backup-content-right{
-  overflow:hidden;
+.backup-pdf{
+  width:99%;
+  height:90%;
 }
 /* Computers Page */
 .computers-container{
@@ -142,13 +135,15 @@ h3{
 }
 /* Report Page */
 .report-container{
+  margin: auto;
+  width: 960px;
   padding: 10px;
 }
 .report-iframe{
   position: absolute;
   height: 90%;
-  width: 99%;
-  border: none
+  width: 960px;
+  border: none;
 }
 /* Costs Page */
 .costs-container{
