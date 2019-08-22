@@ -123,6 +123,7 @@ h3{
 }
 /* Backup Page */
 .backup-container{
+  margin: auto;
   padding: 10px;
 }
 .backup-pdf{
