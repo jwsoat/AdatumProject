@@ -125,16 +125,9 @@ h3{
 .backup-container{
   padding: 10px;
 }
-.backup-content-container{
-  width: 100%;
-  overflow: hidden;
-}
-.backup-content-left{
-  width: 50%;
-  float:left;
-}
-.backup-content-right{
-  overflow:hidden;
+.backup-pdf{
+  width:99%;
+  height:90%;
 }
 /* Computers Page */
 .computers-container{
