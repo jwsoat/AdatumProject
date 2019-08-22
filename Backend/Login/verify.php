@@ -10,10 +10,11 @@ $result = mysqli_query($conn, $sql) or die(mysqli_error($conn));
       if(password_verify($pass, $hash)){
           session_start();
           $_SESSION['user'] = "$user";
+          header('Location: Backend/Admin/adminbuild.php');
         }
       else {
 	       echo "Wrong Password!";
-	       header('Location: login.php');
+	       header('Location: /Backend/Build/loginbuild.php');
           }
       }
 }
