@@ -12,4 +12,4 @@ as well as recover and still run in case of a failure
 
 ## For any issues contact admin@adatum.website
 
-### 22/08/19 Everything was broken on this day...we fixed it 
+### 22/08/19 Everything was broken on this day...we fixed it
