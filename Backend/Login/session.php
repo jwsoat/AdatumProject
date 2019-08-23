@@ -1,4 +1,5 @@
 <?php
+//require sql config
    require "Backend/Config/sql.php"
    session_start();
    $user_check = $_SESSION['user'];
