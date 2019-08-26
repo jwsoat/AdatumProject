@@ -8,7 +8,7 @@ as well as recover and still run in case of a failure
 
 ## LAUNCHING IN ALPHA 29 SEPTEMBER 2019 1PM NZST
 
-## PROJECT V0.0.0.16.5 HOSTED AT live.dev.lasersportsnz.com/Private_Temp user and password same as PCs
+## PROJECT V0.0.0.24 HOSTED AT live.dev.lasersportsnz.com/Private_Temp user and password same as PCs
 
 ## PROJECT V0.0.0.24 HOSTED AT adatum.website
 
