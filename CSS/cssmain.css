@@ -158,7 +158,8 @@ height:50%;
 /* Report Page */
 .report-container{
   margin: auto;
-  width: 960px;
+  max-width: 960px;
+  width:99%
   padding: 10px;
 }
 .report-iframe{
