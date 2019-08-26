@@ -110,18 +110,22 @@ h3{
 /* Home */
 .home-container{
   padding: 10px;
+  width:100%;
+  overflow: hidden;
 }
 .home-container-left{
-
+  width: 50%;
+  float:left;
+  height:90vh;
 }
 .home-container-left-top{
-
+height:50%;
 }
 .home-container-left-bottom{
-
+height:50%;
 }
 .home-container-right{
-
+  overflow: hidden;
 }
 /* Server Page */
 .servers-container{
