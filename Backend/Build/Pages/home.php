@@ -15,7 +15,6 @@ as well as recover and still run in case of a failure<br>
 <!-- Left Bottom Container -->
 <div class="home-container-left-bottom">
 </div>
-
 <!-- Right Container -->
   <div class="home-container-right">
   </div>
