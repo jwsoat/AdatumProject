@@ -1,6 +1,6 @@
 <!-- Place Everything Inside Main DIV -->
 <div class="home-container">
-<H1> Our Breif </H1>
+<H1> Our Brief </H1>
 <p>Adatum is currently running a server 2003 R2 environment on x86 and they have a 2 domain controllers,<br>
 1 DNS server 1 DHCP server and 10 Clients Running windows 8.1.<br>
 The company is wanting to upgrade to a server 2016 environment as the company is always expanding;<br>
