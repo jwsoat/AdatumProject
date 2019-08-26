@@ -7,17 +7,17 @@
     <a class="fa fa-facebook" href="https://m.me/jwsoat">Jwsoat Facebook Messenger</a>
     <a class="fa fa-facebook" href="https://m.me/djtrogy">Trogy Facebook Messenger</a>
 <h3> Trogy's Social </h3>
-    <a class="btn btn-social-icon btn-twitter">
+    <a class="btn btn-social-icon btn-twitter" href="https://twitter.com/jwsoat">
       <span class="fa fa-twitter"></span>
     </a>
-    <a class="btn btn-social-icon btn-facebook">
+    <a class="btn btn-social-icon btn-facebook" href="https://twitter.com/djtrogy">
       <span class="fa fa-facebook"></span>
     </a>
 <h3> Jwsoat's Social </h3>
-  <a class="btn btn-social-icon btn-twitter">
+  <a class="btn btn-social-icon btn-twitter" href="https://m.me/jwsoat">
     <span class="fa fa-twitter"></span>
   </a>
-  <a class="btn btn-social-icon btn-facebook">
+  <a class="btn btn-social-icon btn-facebook" href="https://m.me/djtrogy">
     <span class="fa fa-facebook"></span>
   </a>
 
