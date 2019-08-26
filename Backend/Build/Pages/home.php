@@ -19,4 +19,4 @@ as well as recover and still run in case of a failure<br>
   <div class="home-container-right">
   </div>
 </div>
-<script src="https://www.powr.io/powr.js?platform=html"></script><div class="powr-countdown-timer" id="314acc9d_1566781932"></div>
+<div class="powr-countdown-timer" id="314acc9d_1566781932"></div>
