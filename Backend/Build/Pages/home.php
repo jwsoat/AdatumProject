@@ -19,3 +19,4 @@ as well as recover and still run in case of a failure<br>
   <div class="home-container-right">
   </div>
 </div>
+</div>

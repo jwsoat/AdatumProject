@@ -40,6 +40,31 @@ $(document).ready(function(){
     });
 });
 
+//contact page functions
+function trogy_twitter()
+{
+     location.href = "twitter.com/djtrogy";
+}
+function jwsoat_twitter()
+{
+     location.href = "twitter.com/jwsoat";
+}
+function trogy_messenger()
+{
+     location.href = "m.me/djtrogy";
+}
+function jwsoat_messenger()
+{
+     location.href = "m.me/jwsoat";
+}
+function trogy_github()
+{
+     location.href = "github.com/djtrogy";
+}
+function jwsoat_github()
+{
+     location.href = "github.com/jwsoat";
+}
 //         _nnnn_
 //        dGGGGMMb     ,"""""""""""""".
 //       @p~qp~~qMb    | Linux Rules! |

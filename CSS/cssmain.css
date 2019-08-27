@@ -165,8 +165,7 @@ height:50%;
 .report-iframe{
   position: absolute;
   height: 90%;
-  max-width: 960px;
-  width:99%
+  width: 960px;
   border: none;
 }
 /* Costs Page */
