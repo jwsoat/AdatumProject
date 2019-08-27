@@ -5,5 +5,6 @@
     <link rel="stylesheet" href="CSS/bootstrap.min.css">
     <link rel="stylesheet" href="CSS/all.css">
     <link rel="stylesheet" href="CSS/bootstrap-social.css">
+    <link rel="stylesheet" href="CSS/makeItRain.css">
     <link rel="stylesheet" href="CSS/cssmain.css">
 </head>

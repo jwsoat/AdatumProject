@@ -175,3 +175,15 @@ height:50%;
   margin: auto;
   padding: 10px;
 }
+/* Invis */
+.invis_element{
+  position: fixed;
+  top: 50%;
+  right: 0;
+  height: 10px;
+  width:10px;
+  text-align: center;
+}
+.invis_text{
+  opacity: 0;
+}
