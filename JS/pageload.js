@@ -45,7 +45,7 @@ function trogy_twitter()
 {
      location.href = "twitter.com/djtrogy";
 }
-function trogy_jwsoat()
+function jwsoat_twitter()
 {
      location.href = "twitter.com/jwsoat";
 }
