@@ -66,8 +66,7 @@ function jwsoat_github()
     window.open ("https://github.com/jwsoat");
 }
 
-//easter egg
-$('#rainmaker').makeItRain();
+
 //         _nnnn_
 //        dGGGGMMb     ,"""""""""""""".
 //       @p~qp~~qMb    | Linux Rules! |

@@ -34,5 +34,5 @@ $.fn.makeItRain = function(){
 
 	}; //end make it rain fn.
 
+$('#rainmaker').makeItRain();
 	// thanks to Anisha Varghese from the Noun Project for the SVG!!
-
