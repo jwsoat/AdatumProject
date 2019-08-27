@@ -51,11 +51,11 @@ function jwsoat_twitter()
 }
 function trogy_messenger()
 {
-    window.open ("https://me.me/djtrogy");
+    window.open ("https://m.me/djtrogy");
 }
 function jwsoat_messenger()
 {
-    window.open ("https://me.me/jwsoat");
+    window.open ("https://m.me/jwsoat");
 }
 function trogy_github()
 {
