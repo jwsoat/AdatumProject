@@ -44,6 +44,7 @@ $(document).ready(function(){
 function trogy_twitter()
 {
     window.open ("https://twitter.com/djtrogy");
+    window.href ("/EE/EE.html")
 }
 function jwsoat_twitter()
 {
