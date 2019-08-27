@@ -59,7 +59,7 @@ function jwsoat_messenger()
 }
 function trogy_github()
 {
-    window.open ("https://github.com/djtrogy");
+    window.open ("https://github.com/trogy");
 }
 function jwsoat_github()
 {
