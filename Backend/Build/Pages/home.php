@@ -14,6 +14,7 @@ as well as recover and still run in case of a failure<br>
 </div>
 <!-- Left Bottom Container -->
 <div class="home-container-left-bottom">
+ <img src="/Assets/img/DL360_Gen10(nobezel).jpg" alt="HP DL360 Gen 10" height="100%" width="100%">
 </div>
 <!-- Right Container -->
   <div class="home-container-right">
