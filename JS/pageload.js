@@ -43,7 +43,6 @@ $(document).ready(function(){
 //contact page functions
 function trogy_twitter()
 {
-<<<<<<< HEAD
     window.open ("twitter.com/djtrogy");
 }
 function jwsoat_twitter()
@@ -65,29 +64,6 @@ function trogy_github()
 function jwsoat_github()
 {
     window.open ("github.com/jwsoat");
-=======
-     window.open('https://www.twitter.com/djtrogy');
-}
-function jwsoat_twitter()
-{
-     window.open('https://www.twitter.com/djtrogy');
-}
-function trogy_messenger()
-{
-     window.open('https://www.twitter.com/djtrogy');
-}
-function jwsoat_messenger()
-{
-     window.open('https://www.twitter.com/djtrogy');
-}
-function trogy_github()
-{
-     window.open('https://www.twitter.com/djtrogy');
-}
-function jwsoat_github()
-{
-     window.open('https://www.twitter.com/djtrogy');
->>>>>>> c5b2fd255375c8cd72373805e552368d9e0dcd4c
 }
 //         _nnnn_
 //        dGGGGMMb     ,"""""""""""""".
