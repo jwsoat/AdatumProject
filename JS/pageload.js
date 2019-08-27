@@ -43,27 +43,27 @@ $(document).ready(function(){
 //contact page functions
 function trogy_twitter()
 {
-     location.href = "twitter.com/djtrogy";
+    window.open ("twitter.com/djtrogy");
 }
 function jwsoat_twitter()
 {
-     location.href = "twitter.com/jwsoat";
+    window.open ("twitter.com/jwsoat");
 }
 function trogy_messenger()
 {
-     location.href = "m.me/djtrogy";
+    window.open ("me.me/djtrogy");
 }
 function jwsoat_messenger()
 {
-     location.href = "m.me/jwsoat";
+    window.open ("me.me/jwsoat");
 }
 function trogy_github()
 {
-     location.href = "github.com/djtrogy";
+    window.open ("github.com/djtrogy");
 }
 function jwsoat_github()
 {
-     location.href = "github.com/jwsoat";
+    window.open ("github.com/jwsoat");
 }
 //         _nnnn_
 //        dGGGGMMb     ,"""""""""""""".
