@@ -1,6 +1,6 @@
 <div class="contact-container">
 <h1>Contact Us</h1>
-<h4><a href="mailto:admin@adatum.website">Email Me</a></h4>
+<h4><a href="mailto:admin@adatum.website">Administrator Email</a></h4>
 <h2>Social Medias</h2>
 <h3> Trogy's Social </h3>
 <button type="button" class="btn custom-twitter" onclick="trogy_twitter()"><i class="fab fa-twitter"></i> Twitter</button>
