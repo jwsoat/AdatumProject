@@ -4,9 +4,8 @@
 <h2>Social Medias</h2>
 <h3> Trogy's Social </h3>
 <button type="button" class="btn" style="background-color:#1DA1F2; color:white;" href="twitter.com/djtrogy"><i class="fab fa-twitter pr-1"></i> Twitter</button>
-<button type="button" class="btn" style="background-color:#3b5998; color:white;" href="m.me/djtrogy"><i class="fab fa-facebook-f pr-1"></i> Facebook</button>
+<button type="button" class="btn" style="background-color:#3b5998; color:white;" href="m.me/djtrogy"><i class="fab fa-facebook-messenger"></i> Facebook Messenger</button>
 <h3> Jwsoat's Social </h3>
 <button type="button" class="btn" style="background-color:#1DA1F2; color:white;" href="twitter.com/jwsoat"><i class="fab fa-twitter pr-1"></i> Twitter</button>
-<button type="button" class="btn" style="background-color:#3b5998; color:white;" href="m.me/jwsoat"><i class="fab fa-facebook-f pr-1"></i> Facebook</button>
-
+<button type="button" class="btn" style="background-color:#3b5998; color:white;" href="m.me/jwsoat"><i class="fab fa-facebook-messenger"></i> Facebook Messenger</button>
 </div>
