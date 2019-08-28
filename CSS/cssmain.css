@@ -99,7 +99,7 @@ h3{
 }
 .generated{
   position: fixed;
-  bottom: 0;
+  bottom: 50px;
   left: 0;
   height: 30px;
   text-align: center;
