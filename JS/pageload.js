@@ -71,7 +71,7 @@ function jwsoat_github()
     window.open ("https://github.com/jwsoat");
     console.log("Loaded Jwsoat's Github!");
 }
-function yourfoundme()
+function linuxrulz()
 {
       window.href ("/EE/EE.html")
       console.log("You Found The Easter Egg!");
