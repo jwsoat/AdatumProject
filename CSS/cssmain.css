@@ -97,6 +97,14 @@ h2{
 h3{
   color:white;
 }
+.generated{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 30px;
+  text-align: center;
+  width: auto;
+}
 .footer {
     padding-top:10px;
     position: fixed;

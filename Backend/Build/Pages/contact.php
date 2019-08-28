@@ -11,3 +11,4 @@
 <button type="button" class="btn custom-messenger" onclick="jwsoat_messenger()"><i class="fab fa-facebook-messenger"></i> Messenger</button>
 <button type="button" class="btn custom-github" onclick="jwsoat_github()"><i class="fab fa-github"></i> Github</button>
 </div>
+<p class="generated">Page Generated At <?php echo date(DATE_RFC822); ?></p>

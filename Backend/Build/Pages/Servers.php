@@ -28,6 +28,4 @@
     </div>
   </div>
 </div>
-<div class="invis_element">
-  <p id="rainmaker" class="invis_text"> Click Me! </p>
-</div>
+<p class="generated">Page Generated At <?php echo date(DATE_RFC822); ?></p>

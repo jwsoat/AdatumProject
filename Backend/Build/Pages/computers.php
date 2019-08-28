@@ -76,3 +76,4 @@
         </tr>
       </table>
 </div>
+<p class="generated">Page Generated At <?php echo date(DATE_RFC822); ?></p>
