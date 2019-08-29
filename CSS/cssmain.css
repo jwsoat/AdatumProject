@@ -8790,6 +8790,7 @@ li{
 /* Software Page */
 .software-container{
   padding: 10px;
+  color: white;
 }
 .software-content-container{
   width:100%;
@@ -8821,6 +8822,7 @@ li{
 /* Security Page */
 .security-container{
   padding: 10px;
+  color: white;
 }
 .security-content-container{
   width:100%;
