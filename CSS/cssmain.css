@@ -8817,3 +8817,18 @@ height:50%;
   background-color:#211F1F;
   color:white;
 }
+/* Software Page */
+.software-container{
+  padding: 10px;
+}
+.software-content-container{
+  width:100%;
+  overflow: hidden;
+}
+.software-content-left{
+  width: 50%;
+  float:left;
+}
+.software-content-right{
+  overflow: hidden;
+}
