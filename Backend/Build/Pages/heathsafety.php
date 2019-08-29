@@ -41,7 +41,7 @@
         </p>
     </div>
     <div class="heathsafety-content-right animated slideInRight delay-1s">
-<img style="border-radius: 2%;" src="" alt="ADD AN IMAGE HERE" height="auto" width="100%">
+<img style="border-radius: 2%;" src="/Assets/img/ServerRoom.jpg" alt="Servers" height="auto" width="100%">
     </div>
   </div>
 </div>
