@@ -13,6 +13,9 @@
       <a href="https://en.wikipedia.org/wiki/Active_Directory">Source: Wikipedia</a>
       <h4>VPN</h4>
       <p>The Remote Access Service is used as a single tenant gateway for the VPN server that could provide many advance features and functionality. Users can access Local data servers by connecting to locally hosted VPN server. This makes it so users can access the data offsite.</p>
+      <h4> Windows 10 </h4>
+      <p>Windows 10 is a great operating system for everyone doesn't matter if your a beginner or not is friendly ui makes it useful for everyone</p>
+
     </div>
     <div class="software-content-right animated slideInRight delay-1s">
 <img style="border-radius: 2%;" src="" alt="ADD AN IMAGE HERE" height="auto" width="100%">
