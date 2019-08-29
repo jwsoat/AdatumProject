@@ -12,7 +12,7 @@
 
       <h4>Active Directory Domain Services</h4>
       A server running Active Directory Domain Services is called a domain controller. It authenticates all users and computers in a Windows domain type network assigning and enforcing security policies for all computers and installing or updating software. Active Directory checks the submitted password and searches the database if the user is an administrator account or normal user account. Also, it allows management and storage of information, provides authentication and authorization mechanisms.
-      Source: Wikipedia
+      <a href="https://en.wikipedia.org/wiki/Active_Directory">Source: Wikipedia</a>
 
   </p>
     </div>
