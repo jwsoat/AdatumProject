@@ -1,5 +1,5 @@
 <!-- Place Everything Inside Main DIV -->
-<div class="servers-container">
+<div class="servers-container animated fadeIn">
   <h1>Servers</h1>
   <div class="server-content-container">
     <div class="server-content-left">

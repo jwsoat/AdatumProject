@@ -1,4 +1,4 @@
-<div class="report-container">
+<div class="report-container animated fadeIn">
 <iframe class="report-iframe" src="https://docs.google.com/document/d/e/2PACX-1vTyM_H9qMoMdPgavCenQcKAPD43fSZV0L0jLe_8o9rMmWK2QB4fhuU34w2H10FMrK1l3KPkYsLrJlEV/pub?embedded=true" width="99%"></iframe>
 </div>
 <p class="generated">Page Generated At <?php echo date(DATE_RFC822); ?></p>

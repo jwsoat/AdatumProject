@@ -1,4 +1,4 @@
-<div class="computers-container">
+<div class="computers-container animated fadeIn">
     <h1>Computers</h1>
     <table class="table table-sm table-dark">
       <thead>
