@@ -6,9 +6,9 @@ The company is wanting to upgrade to a server 2016 environment as the company is
 it needs to be able to expand easily for new clients and can keep the whole infrastructure updated,
 as well as recover and still run in case of a failure
 
-## LAUNCHING IN ALPHA 29 SEPTEMBER 2019 1PM NZST
+## LAUNCHING IN ALPHA 29 August 2019 1PM NZST
 
-## PROJECT V0.0.0.33 HOSTED AT adatum.website
+## PROJECT V0.0.1.35 HOSTED AT adatum.website
 
 ## For any issues contact admin@adatum.website
 
