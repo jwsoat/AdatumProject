@@ -8684,6 +8684,9 @@ h2{
 h3{
   color:white;
 }
+h4{
+  color:white;
+}
 .generated{
   position: fixed;
   bottom: 50px;
@@ -8805,6 +8808,7 @@ height:50%;
 /* Heath & Safety Page */
 .heathsafety-container{
   padding: 10px;
+  color: white;
 }
 .heathsafety-content-container{
   width:100%;
@@ -8831,7 +8835,4 @@ height:50%;
 }
 .security-content-right{
   overflow: hidden;
-}
-h4{
-  color:white;
 }
