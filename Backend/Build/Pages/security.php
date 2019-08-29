@@ -1,6 +1,6 @@
 <!-- Place Everything Inside Main DIV -->
 <div class="security-container animated fadeIn delay-0.5s">
-  <h1>Privacy and Security</h1>
+  <h1>Security & Privacy</h1>
   <div class="security-content-container">
     <div class="security-content-left">
 <h3>Privacy<h3>
