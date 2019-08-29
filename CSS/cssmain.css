@@ -8787,6 +8787,7 @@ h4{
 /* Software Page */
 .software-container{
   padding: 10px;
+  color: white;
 }
 .software-content-container{
   width:100%;
@@ -8818,6 +8819,7 @@ h4{
 /* Security Page */
 .security-container{
   padding: 10px;
+  color: white;
 }
 .security-content-container{
   width:100%;
