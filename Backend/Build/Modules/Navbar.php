@@ -21,6 +21,15 @@
         <a id="computers" class="nav-link" href="#">Computers</a>
       </li>
       <li class="nav-item active">
+        <a id="software" class="nav-link" href="#">Software</a>
+      </li>
+      <li class="nav-item active">
+        <a id="heathsafety" class="nav-link" href="#">Heath & Safety</a>
+      </li>
+      <li class="nav-item active">
+        <a id="security" class="nav-link" href="#">Security & Privacy</a>
+      </li>
+      <li class="nav-item active">
         <a id="report" class="nav-link" href="#">Report</a>
       </li>
       <li class="nav-item active">

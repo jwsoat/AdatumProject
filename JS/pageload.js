@@ -39,6 +39,23 @@ $(document).ready(function(){
         $("#page-content").load("Backend/Build/Pages/contact.php");
     });
 });
+$(document).ready(function(){
+    $("#heathsafety").click(function(){
+        $("#page-content").load("Backend/Build/Pages/heathsafety.php");
+    });
+});
+$(document).ready(function(){
+    $("#security").click(function(){
+        $("#page-content").load("Backend/Build/Pages/security.php");
+    });
+});
+$(document).ready(function(){
+    $("#software").click(function(){
+        $("#page-content").load("Backend/Build/Pages/software.php");
+    });
+});
+
+
 
 //contact page functions
 function trogy_twitter()
