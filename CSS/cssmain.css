@@ -8832,3 +8832,33 @@ height:50%;
 .software-content-right{
   overflow: hidden;
 }
+/* Heath & Safety Page */
+.heathsafety-container{
+  padding: 10px;
+}
+.heathsafety-content-container{
+  width:100%;
+  overflow: hidden;
+}
+.heathsafety-content-left{
+  width: 50%;
+  float:left;
+}
+.heathsafety-content-right{
+  overflow: hidden;
+}
+/* Security Page */
+.security-container{
+  padding: 10px;
+}
+.security-content-container{
+  width:100%;
+  overflow: hidden;
+}
+.security-content-left{
+  width: 50%;
+  float:left;
+}
+.security-content-right{
+  overflow: hidden;
+}

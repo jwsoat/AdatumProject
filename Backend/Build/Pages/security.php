@@ -1,12 +1,12 @@
 <!-- Place Everything Inside Main DIV -->
-<div class="software-container animated fadeIn delay-2s">
+<div class="security-container animated fadeIn delay-2s">
   <h1>Software</h1>
-  <div class="software-content-container">
-    <div class="software-content-left">
+  <div class="security-content-container">
+    <div class="security-content-left">
   <p>
   </p>
     </div>
-    <div class="software-content-right">
+    <div class="security-content-right">
 <img style="border-radius: 2%;" src="" alt="ADD AN IMAGE HERE" height="auto" width="100%">
     </div>
   </div>
