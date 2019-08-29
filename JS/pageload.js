@@ -55,8 +55,14 @@ $(document).ready(function(){
     });
 });
 
-
-
+function sleep(milliseconds) {
+  var start = new Date().getTime();
+  for (var i = 0; i < 1e7; i++) {
+    if ((new Date().getTime() - start) > milliseconds){
+      break;
+    }
+  }
+}
 //contact page functions
 function trogy_twitter()
 {
@@ -90,7 +96,18 @@ function jwsoat_github()
 }
 function linuxrulz()
 {
-      window.href ("/EE/EE.html")
+      sleep(1000);
       console.log("You Found The Easter Egg!");
-
+      sleep(1000);
+      console.log("...");
+      sleep(6000);
+      console.log("There Was A Penguin Here...But he broke everything so we had to release him to the wild :)");
+      sleep(1000);
+      console.log("...");
+      sleep(3000);
+      console.log("Have a great day!");
+      sleep(1000);
+      console.log("...");
+      sleep(2000);
+      console.log("Goodbye! :D");
 }
