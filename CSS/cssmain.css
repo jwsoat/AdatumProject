@@ -8714,13 +8714,7 @@ h4{
 .home-container-left{
   width: 50%;
   float:left;
-  height:90vh;
-}
-.home-container-left-top{
-height:50%;
-}
-.home-container-left-bottom{
-height:50%;
+  height:90%;
 }
 .home-container-right{
   overflow: hidden;
