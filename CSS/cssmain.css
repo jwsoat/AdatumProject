@@ -8722,6 +8722,10 @@ height:50%;
 .home-container-right{
   overflow: hidden;
 }
+.homeimg{
+  width: 100%;
+  height: auto;
+}
 /* Server Page */
 .servers-container{
   padding: 10px;
