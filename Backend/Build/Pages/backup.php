@@ -1,4 +1,4 @@
-<div class="backup-container animated fadeIn delay-2s">
+<div class="backup-container animated fadeIn delay-1s">
   <object
     data="/Assets/Docs/quote.pdf"
     type="application/pdf"
