@@ -8687,6 +8687,9 @@ h3{
 h4{
   color:white;
 }
+li{
+  color white;
+}
 .generated{
   position: fixed;
   bottom: 50px;
