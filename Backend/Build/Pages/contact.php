@@ -1,4 +1,4 @@
-<div class="contact-container animated fadeIn delay-3s">
+<div class="contact-container animated fadeIn delay-0.5s">
 <h1>Contact Us</h1>
 <h5><a href="mailto:admin@adatum.website">Administrator Email</a></h5>
 <h2>Social Medias</h2>
