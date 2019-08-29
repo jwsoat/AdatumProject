@@ -9,6 +9,7 @@ The company is wanting to upgrade to a server 2016 environment as the company is
 it needs to be able to expand easily for new clients and can keep the whole infrastructure updated,<br>
 as well as recover and still run in case of a failure<br>
 </p>
+</div>
 <!-- Right Container -->
   <div class="home-container-right">
      <img class="homeimg" src="/Assets/img/Network.png" alt="Network">

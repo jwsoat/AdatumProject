@@ -8717,9 +8717,9 @@ li{
 .home-container-left{
   width: 50%;
   float:left;
-  height:90%;
 }
 .home-container-right{
+     float: left;
   overflow: hidden;
 }
 .homeimg{
