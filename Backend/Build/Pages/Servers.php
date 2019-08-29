@@ -23,7 +23,7 @@
     Virtualize your applications to decrease costs and increase flexibility.<br>
   </p>
     </div>
-    <div class="server-content-right">
+    <div class="server-content-right animated slideInRight delay-1s">
 <img style="border-radius: 2%;" src="https://cdn2.itpro.co.uk/sites/itpro/files/2018/12/hpe_proliant_dl325_gen10.jpg" alt="Smiley face" height="auto" width="100%">
     </div>
   </div>
