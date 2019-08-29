@@ -1,4 +1,4 @@
-<div class="costs-container animated fadeIn delay-2s">
+<div class="costs-container animated fadeIn delay-3s">
 <h1>Costs</h1>
   <table class="table table-sm table-dark">
     <thead>

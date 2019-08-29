@@ -1,5 +1,5 @@
 <!-- Place Everything Inside Main DIV -->
-<div class="software-container animated fadeIn delay-2s">
+<div class="software-container animated fadeIn delay-3s">
   <h1>Software</h1>
   <div class="software-content-container">
     <div class="software-content-left">

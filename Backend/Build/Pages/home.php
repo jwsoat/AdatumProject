@@ -1,5 +1,5 @@
 <!-- Place Everything Inside Main DIV -->
-<div class="home-container animated fadeIn delay-2s">
+<div class="home-container animated fadeIn delay-3s">
 <!-- Left Container -->
   <div class="home-container-left">
 <!-- Left Top Container -->
