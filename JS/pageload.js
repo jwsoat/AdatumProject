@@ -92,21 +92,5 @@ function linuxrulz()
 {
       window.href ("/EE/EE.html")
       console.log("You Found The Easter Egg!");
-      console.log("         _nnnn_");
-      console.log("        dGGGGMMb     ,"""""""""""""".");
-      console.log("       @p~qp~~qMb    | Linux Rules! |");
-      console.log("       M|@||@) M|   _;..............'");
-      console.log("       @,----.JM| -'");
-      console.log("      JS^\__/  qKL");
-      console.log("     dZP        qKRb");
-      console.log("    dZP          qKKb");
-      console.log("   fZP            SMMb");
-      console.log("   HZM            MMMM");
-      console.log("   FqM            MMMM");
-      console.log(" __| ".        |\dS"qML");
-      console.log(" |    `.       | `' \Zq");
-      console.log("_)      \.___.,|     .'");
-      console.log("\____   )MMMMMM|   .'");
-      console.log("     `-'       `--' hjm");
 
 }
