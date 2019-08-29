@@ -6,7 +6,7 @@
   <p>
   </p>
     </div>
-    <div class="security-content-right">
+    <div class="security-content-right animated slideInRight delay-1s">
 <img style="border-radius: 2%;" src="" alt="ADD AN IMAGE HERE" height="auto" width="100%">
     </div>
   </div>
