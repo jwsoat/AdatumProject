@@ -4,7 +4,6 @@
   <div class="security-content-container">
     <div class="security-content-left">
 <h3>Privacy<h3>
-
 <h4>Disk Destruction<br><br>
 Kill Disk</h4>
  <ul>
