@@ -32,7 +32,7 @@ UniFi Video IP Camera G4 Pro</h4>
   </p>
     </div>
     <div class="security-content-right animated slideInRight delay-1s">
-<img style="border-radius: 2%;" src="" alt="ADD AN IMAGE HERE" height="auto" width="100%">
+<img style="border-radius: 2%;" src="/Assets/img/Security.jpg" alt="Security" height="auto" width="100%">
     </div>
   </div>
 </div>
