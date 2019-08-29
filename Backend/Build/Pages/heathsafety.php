@@ -5,33 +5,39 @@
     <div class="heathsafety-content-left">
       <h4>Server Room (Hazards)</h4>
       <p>
-        Tripping hazards
-        Electricity
-        Fans
-        Eating food
-        Drinking water
-        Temperature
+        <ul>
+        <li>Tripping hazards</li>
+        <li>Electricity</li>
+        <li>Fans</li>
+        <li>Eating food</li>
+        <li>Drinking water</li>
+        <li>Temperature</li>
+        </ul>
       </p>
       <h4>Office (Hazards)</h4>
       <p>
-          Chairs and tables
-          Tripping hazards
-          Not blocking the exits
-          Sickness\injuries
-          Children
-          Poor posture
-          Eye strain
-          How are we going to achieve Health and Safety in the Office or Server Room
-          Evaluation plan\procedures
-          Having fire extinguisher
-          Having First aid kit
-          Having exit signs placed
-          Having a fire alarm system in place
-          Assign a person to be a fire warden
-          Having an Evaluation Meeting Point planned
-          Don’t use evaluators use the stairs
-          Go to the closest emergency exit
-          Have a meeting to discuss about health and safety
+        <ul>
+          <li>Chairs and tables</li>
+          <li>Tripping hazards</li>
+          <li>Not blocking the exits</li>
+          <li>Sickness\injuries</li>
+          <li>Children</li>
+          <li>Poor posture</li>
+          <li>Eye strain</li>
+        </ul>
+          <h4>How are we going to achieve Health and Safety in the Office or Server Room</h4>
+        <ul>
+          <li>Evaluation plan\procedures</li>
+          <li>Having fire extinguisher</li>
+          <li>Having First aid kit</li>
+          <li>Having exit signs placed</li>
+          <li>Having a fire alarm system in place</li>
+          <li>Assign a person to be a fire warden</li>
+          <li>Having an Evaluation Meeting Point planned</li>
+          <li>Don’t use evaluators use the stairs</li>
+          <li>Go to the closest emergency exit</li>
+          <li>Have a meeting to discuss about health and safety</li>
+        </ul>
         </p>
     </div>
     <div class="heathsafety-content-right animated slideInRight delay-1s">
