@@ -8715,11 +8715,12 @@ li{
   overflow: hidden;
 }
 .home-container-left{
-  width: 50%;
+  width: 49%;
   float:left;
 }
 .home-container-right{
      float: left;
+     width: 49%;
   overflow: hidden;
 }
 .homeimg{
