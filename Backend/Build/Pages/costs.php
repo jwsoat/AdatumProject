@@ -11,7 +11,7 @@
     <tbody>
       <tr>
         <th>1</th>
-        <td><a href="/Assets/Docs/quote.pdf">45 Drives Storinator Q30 Enhanced</a></td>
+        <td><a href="Assets/Docs/quote.pdf">45 Drives Storinator Q30 Enhanced</a></td>
         <td>$18671.81</td>
       </tr>
       <tr>

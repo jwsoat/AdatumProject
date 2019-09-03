@@ -1,11 +1,11 @@
 <div class="backup-container animated fadeIn delay-0.5s">
   <object
-    data="/Assets/Docs/quote.pdf"
+    data="Assets/Docs/quote.pdf"
     type="application/pdf"
     width="99%"
     height="90%">
     <iframe
-      src="/Assets/Docs/quote.pdf"
+      src="Assets/Docs/quote.pdf"
       width="99%"
       height="90%"
       style="border: none;">

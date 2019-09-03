@@ -12,7 +12,7 @@ as well as recover and still run in case of a failure<br>
 </div>
 <!-- Right Container -->
   <div class="home-container-right">
-     <img class="homeimg" src="/Assets/img/Network.png" alt="Network">
+     <img class="homeimg" src="Assets/img/Network.png" alt="Network">
   </div>
 </div>
 </div>
