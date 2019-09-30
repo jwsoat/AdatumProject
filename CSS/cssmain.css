@@ -8712,16 +8712,14 @@ li{
 .home-container{
   padding: 10px;
   width:100%;
-  overflow: hidden;
+  display: flex;
+  flex-wrap: nowrap;
 }
 .home-container-left{
   width: 49%;
-  float:left;
 }
 .home-container-right{
-     float: left;
      width: 49%;
-  overflow: hidden;
 }
 .homeimg{
   width: 100%;
