@@ -74,5 +74,12 @@
           <td>979.84</td>
           <td>Mighty Ape</td>
         </tr>
+        <tr>
+          <td>TOTAL</td>
+          <td>-</td>
+          <td>-</td>
+          <td>NZ$979.84</td>
+          <td>-</td>
+        </tr>
       </table>
 </div>
