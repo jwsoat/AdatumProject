@@ -8762,7 +8762,7 @@ li{
 .report-iframe{
   position: absolute;
   height: 90%;
-  width: 100%;
+  width: 960px;
   border: none;
 }
 /* Costs Page */
