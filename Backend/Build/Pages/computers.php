@@ -78,7 +78,7 @@
           <td>TOTAL</td>
           <td>-</td>
           <td>-</td>
-          <td>NZ$979.84</td>
+          <td>979.84</td>
           <td>-</td>
         </tr>
       </table>
