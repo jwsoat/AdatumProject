@@ -8,7 +8,7 @@ as well as recover and still run in case of a failure
 
 ## LAUNCHING ON OCTOBER 4th 1PM NZDT
 
-## PROJECT V0.0.1.35 HOSTED AT https://adatum.website
+## PROJECT V1.2.6.36 HOSTED AT https://adatum.website
 
 ## For any issues contact admin@adatum.website
 
