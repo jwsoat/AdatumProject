@@ -54,6 +54,11 @@ $(document).ready(function(){
         $("#page-content").load("Backend/Build/Pages/software.php");
     });
 });
+$(document).ready(function(){
+    $("#network").click(function(){
+        $("#page-content").load("Backend/Build/Pages/networking.php");
+    });
+});
 
 function sleep(milliseconds) {
   var start = new Date().getTime();

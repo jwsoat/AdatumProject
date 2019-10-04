@@ -30,6 +30,9 @@
         <a id="security" class="nav-link" href="#">Security & Privacy</a>
       </li>
       <li class="nav-item active">
+        <a id="network" class="nav-link" href="#">Networking</a>
+      </li>
+      <li class="nav-item active">
         <a id="report" class="nav-link" href="#">Report</a>
       </li>
       <li class="nav-item active">
