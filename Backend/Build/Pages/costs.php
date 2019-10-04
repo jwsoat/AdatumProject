@@ -89,6 +89,11 @@
         <td><a href="https://www.spark.co.nz/business/shop/internet/plans-and-pricing/">Spark Business Fibre Max</a></td>
         <td>$172.33</td>
       </tr>
+      <tr>
+        <th>TOTAL</th>
+        <td>-</td>
+        <td>$90654.00</td>
+      </tr>
     </tbody>
   </table>
 </div>
