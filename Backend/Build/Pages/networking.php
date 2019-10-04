@@ -37,7 +37,7 @@ Supports 10GBASE-T, 100BASE-TX, and 1000BASE-T, RJ45 output<br>
  <p> PFSense is a open source firewall based on FreeBSD providing high end features for free</p>
     </div>
     <div class="server-content-right animated slideInRight delay-1s">
-<img style="border-radius: 10px;" src="https://cdn2.itpro.co.uk/sites/itpro/files/2018/12/hpe_proliant_dl325_gen10.jpg" alt="Smiley face" height="auto" width="100%">
+<img style="border-radius: 10px;" src="Assets/img/networktop.png" alt="Smiley face" height="auto" width="100%">
     </div>
   </div>
 </div>
