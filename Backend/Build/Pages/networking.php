@@ -31,8 +31,6 @@ Dual LAN via SoC 10GBase-T<br>
 Virtual Machine Device Queues reduce I/O overhead<br>
 Supports 10GBASE-T, 100BASE-TX, and 1000BASE-T, RJ45 output<br>
 1x Realtek RTL8201N PHY (dedicated IPMI)</li>
-   <li>Network Expansion Options	4-Port Intel GbE<br>
-2-port Chelsio SFP+ Expansion</li>
    <li>Power:	200W Internal Power Supply, 100~240V, 50-60Hz, 2.6 Amp Max</li>
  </ul>
  <h5> PFSense </h5>
