@@ -10,6 +10,8 @@
   <li>Ubiquiti EdgeSwitch 48 Lite</li>
   <li>Ubiquiti EdgeSwitch 48 (500W 802.3af/at)</li>
   <li>Ubiquiti Unifi AP NanoHD</li>
+  <li>Ubiquiti UF-MM-10G Fiber Module SFP+</li>
+  <li>Ubiquiti UniFi 1m LC/LC Multi-Mode ODN Cable</li>
 </ul>
 <h4> Why Ubiquiti? </h4>
   <h5>Small To Medium Business</h5>

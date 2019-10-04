@@ -90,13 +90,13 @@
         <td>$172.33</td>
       </tr>
       <tr>
-        <th>1</th>
+        <th>2</th>
         <td><a href="https://www.pbtech.co.nz/product/CABUBI9110/Ubiquiti-UniFi-1m-LCLC-Multi-Mode-ODN-Cable">Ubiquiti UniFi 1m LC/LC Multi-Mode ODN Cable</a></td>
         <td>$27.60</td>
       </tr>
       <tr>
-        <th>1</th>
-        <td><a href="https://www.pbtech.co.nz/product/SWHUBI0221/Ubiquiti-UF-MM-10G-Fiber-Module-10Gbps-SFP-Multi-M">Ubiquiti UF-MM-10G Fiber Module 10Gbps SFP+, Multi-Mode, LC, 850nm, 300m, 2-Pac</a></td>
+        <th>2</th>
+        <td><a href="https://www.pbtech.co.nz/product/SWHUBI0221/Ubiquiti-UF-MM-10G-Fiber-Module-10Gbps-SFP-Multi-M">Ubiquiti UF-MM-10G Fiber Module 10Gbps SFP+, Multi-Mode, LC, 850nm, 300m, 2-Pack</a></td>
         <td>$181.70</td>
       </tr>
       <tr>
