@@ -8728,6 +8728,7 @@ li{
 /* Server Page */
 .servers-container{
   padding: 10px;
+  color:white;
 }
 .server-content-container{
   width:100%;
