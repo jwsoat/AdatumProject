@@ -116,3 +116,20 @@ function linuxrulz()
       sleep(2000);
       console.log("Goodbye! :D");
 }
+function Base()
+{
+  sleep(1000);
+  console.log("Another Easter Egg!");
+  sleep(1000);
+  console.log("If you're looking at the code for these...");
+  sleep(1000);
+  console.log("You didnt find them the legit way!");
+  sleep(1000);
+  console.log("...anyway");
+  sleep(1000);
+  console.log("ALL YOUR BASE ARE BELONG TO US!");
+  sleep(1000);
+  console.log("have a nice day :D");
+  window.open ("https://i.kym-cdn.com/entries/icons/original/000/000/013/maxresdefault-2.jpg");
+  console.log("Loaded!");
+}
