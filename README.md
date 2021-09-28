@@ -8,12 +8,6 @@ The company is wanting to upgrade to a server 2016 environment as the company is
 it needs to be able to expand easily for new clients and can keep the whole infrastructure updated,
 as well as recover and still run in case of a failure
 
-## LAUNCHING ON OCTOBER 4th 1PM NZDT
-
-## PROJECT V1.2.6.35 HOSTED AT https://adatum.website
-
-## For any issues contact admin@adatum.website
-
 ### 22/08/19 Everything was broken on this day...we fixed it
 
 # Contributing
